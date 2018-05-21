@@ -1,4 +1,5 @@
-# Helsinki 2018
+# Helsinki 2018 
+`https://github.com/it-seminar/2018-helsinki/`
 
 ## Useful links
 
