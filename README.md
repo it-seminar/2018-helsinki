@@ -1,5 +1,8 @@
-# Helsinki 2018 
+# Helsinki 2018
+
 `https://github.com/it-seminar/2018-helsinki/`
+
+Files used for 3D printing (STL) can be found in the [Prototype/OpenSCAL](Prototype/OpenSCAL) folder.
 
 ## Useful links
 
@@ -7,4 +10,3 @@
 * [Accell Stepper Library](http://www.airspayce.com/mikem/arduino/AccelStepper/index.html)
 * [SG90 Servo](http://akizukidenshi.com/download/ds/towerpro/SG90.pdf)
 * [Photo Resistor](https://playground.arduino.cc/Learning/PhotoResistor)
-
